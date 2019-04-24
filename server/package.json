@@ -1,0 +1,21 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "description": "Jack Yacoub Inlämning 4 angularJS",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [
+    "api",
+    "rest",
+    "inlamning4",
+    "angularjs"
+  ],
+  "author": "Jack Yacoub",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
